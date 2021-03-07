@@ -9,7 +9,7 @@ Meu portfólio de projetos de Data Science
 
 
 **Links**
-* [LinkedIn](www.linkedin.com/in/amanda-rafaela-de-oliveira-66634817)
+* [LinkedIn](https://www.linkedin.com/in/amanda-rafaela-de-oliveira-66634817)
 * [Medium](https://medium.com/@amanda_oliveira)
 
 
