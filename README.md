@@ -17,4 +17,4 @@ Meu portfólio de projetos de Data Science
 
 
 ## Artigos:
-* **Cientista de dados: esse hype passa?**(https://bit.ly/3qqEx3F)
+* **[Cientista de dados: esse hype passa?]**(https://bit.ly/3qqEx3F)
