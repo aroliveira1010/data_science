@@ -5,7 +5,7 @@ Meu portfólio de projetos de Data Science
   <img src="banner_github.png" >
 </p>  
 
-#Amanda Oliveira
+# Amanda Oliveira
 
 
 **Links**
