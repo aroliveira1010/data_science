@@ -3,9 +3,9 @@ Meu portfólio de projetos de Data Science
 
 <p align="center">
   <img src="banner_github.png" >
-</p>  
-# Amanda Oliveira
+</p> 
 
+# Amanda Oliveira
 
 **Links**
 * [LinkedIn](https://www.linkedin.com/in/amanda-rafaela-de-oliveira-66634817)
@@ -14,7 +14,6 @@ Meu portfólio de projetos de Data Science
 
 ## Projetos:
 *
-
 
 
 ## Artigos:
