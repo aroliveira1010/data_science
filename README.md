@@ -1,8 +1,5 @@
 ![author](https://img.shields.io/badge/author-aroliveira1010-red.svg)
 
-# data_science
-Meu portfólio de projetos de Data Science
-
 <p align="center">
   <img src="banner_github.png" >
 </p> 
